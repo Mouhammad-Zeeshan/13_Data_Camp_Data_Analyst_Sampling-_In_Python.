@@ -1,0 +1,15 @@
+SAMPLING IN PYTHON
+
+
+Chapter-01:
+1. Population is a complete set, we are interested in.
+2. df.sample(n=x), where x is number of sample to be draw.
+3. 
+ 
+
+chapter-02:
+startified sampling: 
+Stratified sampling is useful if you care about subgroups. Otherwise, simple random sampling is more appropriate.
+2. Cluster Sampling:
+Use simple random sampling to pick subgroups, then do simple random sampling on those subgroups,.
+
